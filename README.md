@@ -3,7 +3,7 @@
 > Merge multiple AI conversations into one unified, context-aware conversation.
 > **Created & Developed by Rahil**
 > 
-> 🌐 **Live Demo:** [https://mining-pattern-info-bucks.trycloudflare.com](https://mining-pattern-info-bucks.trycloudflare.com)
+> 🌐 **Live Demo:** [https://mining-pattern-info-bucks.trycloudflare.com](https://footage-wheels-cincinnati-devel.trycloudflare.com)
 
 ## Overview
 
