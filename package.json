@@ -1,3 +1,4 @@
+{
   "name": "ai-chat-merger",
   "version": "1.0.0",
   "description": "Intelligent AI chat conversation merger with deduplication and context preservation",
